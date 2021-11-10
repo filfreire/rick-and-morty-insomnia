@@ -4,4 +4,6 @@
 
 ## How to use
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Rick%20and%20Morty%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffilfreire%2Frick-and-morty-insomnia%2Fmain%2FInsomnia_Rick_and_Morty_API.json)
+
 Import the [Insomnia_Rick_and_Morty_API.json](./Insomnia_Rick_and_Morty_API.json) file into your [Insomnia](https://insomnia.rest/) workspace.
